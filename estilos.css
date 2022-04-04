@@ -11,3 +11,10 @@ img{
     background-color: green;
     padding: 20px;
 }
+h3{
+    margin: 10px;
+    padding: 12px;
+    color: pink;
+    font-size: 1.6rem;
+    background: purple;
+}
